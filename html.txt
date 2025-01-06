@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Ini adalah judul </title>
+</head>
+
+<body>
+<h1> Ini GitHub milik Alshinta </h1>
+</body>
+
+</html>
